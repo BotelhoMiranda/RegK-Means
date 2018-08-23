@@ -28,9 +28,9 @@ The following objects are implemented on project:
     - The .arff file is similar to convencional, but, there is a unique diference. The Last collumn does not have a assigment (or label on classification algorithms). There is a neighborhood representation [a_b_ ... _z] where a,b ... z are regions (objects) which are neighboors from object(row).
 
 * Further, RegK-Means includes implementations (based on WEKA project) of:
-  - DenseInstance.java implemented in python by Roland Memisevic 2008, following minimize.m which is copyright (C) 1999 - 2006, Carl Edward Rasmussen
-  - DistanceFunction.java (Copyright (c) Ian T Nabney (1996-2001))
-  - EuclideanDistance.java (Copyright (c) by Hannes Nickisch 2010-01-10.)
+  - DenseInstance.java 
+  - DistanceFunction.java 
+  - EuclideanDistance.java 
   - Instance.java
   - Instance.java
   - ManhattanDistance.java
@@ -42,6 +42,7 @@ The following objects are implemented on project:
 
 # Requirements
 WEKA 3.7.12 or above
+Some dependencies are importants to execution. They are present in [dependencies](https://github.com/BotelhoMiranda/RegK-Means/tree/master/Dependencies).
 
 # Acknowledgements
 
