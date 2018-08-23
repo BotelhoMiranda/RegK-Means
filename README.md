@@ -10,7 +10,7 @@
     Leandro Miranda, José Viterbo, Flávia Bernardini, 2017.
 ```
 
-RegK-Means is an algorithm containing an object-oriented Java implementation based on [WEKA](https://www.cs.waikato.ac.nz/ml/weka/) for Spatially contiguity Clustering, essentially for Regionalization problems.
+RegK-Means is an algorithm containing an object-oriented Java implementation based on [WEKA](https://www.cs.waikato.ac.nz/ml/weka/) project for Spatially contiguity Clustering, essentially for Regionalization problems.
 
 Based on K-Means, RegK-Means algorithm for solving regionalization problems. This algorithm adopts the following criteria: objects can only belong to the same region — or cluster — if these objects are spatially adjacent.
 
@@ -22,9 +22,10 @@ The following objects are implemented on project:
   - Canopy;
   - Farthest First;
   - random;
-  - KMeans++.
+  - K-Means++.
 
 * Format of dataset: .arff ( like WEKA)
+    - The .arff file is similar to convencional, but, there is a unique diference. The Last collumn does not have a assigment (or label on classification algorithms). There is a neighborhood representation [a_b_ ... _z] where a,b ... z are regions (objects) which are neighboors from object(row).
 
 * Further, RegK-Means includes implementations (based on WEKA project) of:
   - DenseInstance.java implemented in python by Roland Memisevic 2008, following minimize.m which is copyright (C) 1999 - 2006, Carl Edward Rasmussen
@@ -40,7 +41,7 @@ The following objects are implemented on project:
 
 
 # Requirements
-WEKA 3.7.1 or above
+WEKA 3.7.12 or above
 
 # Acknowledgements
 
