@@ -2,7 +2,7 @@
 ```
     Leandro Miranda [leandromiranda@id.uff.br]
     José Viterbo [viterbo@ic.uff.br]
-    Flávia Bernardini [fcbernardini@gmail.com]
+    Flávia Bernardini [fcbernardini@ic.uff.com]
     
     This file is part of RegK-Means.
     
