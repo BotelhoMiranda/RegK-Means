@@ -14,6 +14,8 @@ RegK-Means is an algorithm containing an object-oriented Java implementation bas
 
 Based on K-Means, RegK-Means algorithm for solving regionalization problems. This algorithm adopts the following criteria: objects can only belong to the same region — or cluster — if these objects are spatially adjacent.
 
+# Description
+
 The following objects are implemented on project:
 
 * Initialization Methods: 
@@ -34,10 +36,6 @@ The following objects are implemented on project:
   
   The sources are presented on WEKA project, too; however, there are some changes. 
 
-
-# Description
-
-The following obejcts are implemented.
 
 
 
