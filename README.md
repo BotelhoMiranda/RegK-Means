@@ -25,7 +25,7 @@ The following objects are implemented on project:
   - K-Means++.
 
 * Format of dataset: .arff ( like WEKA)
-    - The .arff file is similar to convencional, but, there is a unique diference. The Last collumn does not have a assigment (or label on classification algorithms). There is a neighborhood representation [a_b_ ... _z] where a,b ... z are regions (objects) which are neighboors from object(row).
+    - The .arff file is similar to convencional, but, there is a unique diference. Last collumn does not have a assigment (or label on classification algorithms). There is a neighborhood representation [a_b_ ... _z] where a,b ... z are regions (objects) which are neighboors from object(row).
 
 * Further, RegK-Means includes implementations (based on WEKA project) of:
   - DenseInstance.java 
