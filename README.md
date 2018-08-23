@@ -34,7 +34,7 @@ The following objects are implemented on project:
   - Instance.java
   - ManhattanDistance.java
   
-  The sources are presented on WEKA project, too; however, there are some changes. 
+  The sources are presented on WEKA project, too. However, there are some changes due to RegK-Means implementation. 
 
 
 
