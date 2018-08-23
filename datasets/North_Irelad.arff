@@ -1,0 +1,21 @@
+@relation North_Ireland-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0
+
+@attribute Jobs numeric
+@attribute Innovation_&_Technology numeric
+@attribute Skills numeric
+@attribute R&D numeric
+@attribute Other numeric
+@attribute neighborhood {[1_7],[1_4_5],[4_5_9],[2_3_4],[7_9_10],[8_9_11],[9_10],[1_2_5_6],[3_8_9],[6_7_8_10_11],[2_4_6]}
+
+@data
+0.208258,0.069588,0.173267,0.074377,0.325843,[1_7]
+0.015061,0,0.089109,0,0,[1_4_5]
+0.327318,0.510309,0.351485,0.185533,0.296114,[4_5_9]
+1,0.969072,1,1,1,[2_3_4]
+0,0.087629,0,0.003678,0.003979,[7_9_10]
+0.155025,0.123711,0.084158,0.096445,0.180478,[8_9_11]
+0.066476,0.087629,0.064356,0.014303,0.009597,[9_10]
+0.081667,0.296392,0.371287,0.073151,0.130618,[1_2_5_6]
+0.051805,0.048969,0.034653,0.173273,0.137172,[3_8_9]
+0.311607,1,0.584158,0.207192,0.187968,[6_7_8_10_11]
+0.083355,0.378866,0.19802,0.041275,0.050094,[2_4_6]
