@@ -41,7 +41,8 @@ The following objects are implemented on project:
 
 
 # Requirements
-WEKA 3.7.12 or above
+WEKA 3.7.12 or above.
+
 Some dependencies are importants to execution. They are present in [dependencies](https://github.com/BotelhoMiranda/RegK-Means/tree/master/Dependencies).
 
 # Acknowledgements
