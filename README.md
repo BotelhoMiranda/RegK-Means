@@ -10,7 +10,7 @@
     Leandro Miranda, José Viterbo, Flávia Bernardini, 2017.
 ```
 
-RegK-Means is an algorithm containing an object-oriented Java implementation based on [WEKA](https://www.cs.waikato.ac.nz/ml/weka/) project for Spatially Contiguity Clustering, essentially for Regionalization problems.
+RegK-Means is an algorithm containing an object-oriented Java implementation based on [WEKA](https://www.cs.waikato.ac.nz/ml/weka/) project for Spatially contiguity clustering, essentially for Regionalization problems.
 
 Based on K-Means, RegK-Means algorithm for solving regionalization problems. This algorithm adopts the following criteria: objects can only belong to the same region — or cluster — if these objects are spatially adjacent.
 
